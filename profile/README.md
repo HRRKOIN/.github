@@ -30,26 +30,18 @@ Empowering the community is at the heart of HRRKoin's mission. We seek to empowe
 
 <h2 class="heading-element" dir="auto">Social Links</h2>
 <p dir="auto">
-[Linkedin](https://www.linkedin.com/company/hrrkoin/)
-<br>
-[Twitter](https://twitter.com/Hrrkoin)
-<br>
-[Telegram Channel](https://t.me/hrrkoinofficial)
-<br>
-[Telegram Community](https://t.me/hrrkoingroup)
-<br>
-[YouTube](https://www.youtube.com/@hrrkoin)
-<br>
-[Discord](https://discord.gg/ztkZYHE4K4)
-<br>
-[Facebook](https://www.facebook.com/Hrrkoin/)
-<br>
-[Instagram](https://www.instagram.com/hrrkoin/)
-<br>
-[Quora](https://hrrkoin.quora.com/?invite_code=lkGoT8yKHnomzRSYeE7m)
-<br>
-[Reddit](https://reddit.com/r/Hrrkoin/)
-<br>
-[Medium](https://medium.com/@hrrkoin)
-<br>
+## Social Media Links
+
+- [![Linkedin](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/linkedin.svg)](https://www.linkedin.com/company/hrrkoin/)
+- [![Twitter](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/twitter.svg)](https://twitter.com/Hrrkoin)
+- [![Telegram Channel](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg)](https://t.me/hrrkoinofficial)
+- [![Telegram Community](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg)](https://t.me/hrrkoingroup)
+- [![YouTube](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/youtube.svg)](https://www.youtube.com/@hrrkoin)
+- [![Discord](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/discord.svg)](https://discord.gg/ztkZYHE4K4)
+- [![Facebook](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/facebook.svg)](https://www.facebook.com/Hrrkoin/)
+- [![Instagram](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/instagram.svg)](https://www.instagram.com/hrrkoin/)
+- [![Quora](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/quora.svg)](https://hrrkoin.quora.com/?invite_code=lkGoT8yKHnomzRSYeE7m)
+- [![Reddit](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/reddit.svg)](https://reddit.com/r/Hrrkoin/)
+- [![Medium](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/medium.svg)](https://medium.com/@hrrkoin)
+
 </p>
