@@ -1,6 +1,7 @@
 ## Hi there 👋
-
+<p align="center" dir="auto">
 <img src="https://github.com/HRRKOIN/.github/blob/main/logo.png?raw=true" alt="Hrrkoin Logo" width="70%" style="max-width: 100%;">
+</p>
 <p align="center" dir="auto">
 <b>Hrrkoin is a open source community-driven project, standing on two unbreakable pillars, contributors & collaborators. Here at Hrrkoin, the community is everything.</b>
 </p>
