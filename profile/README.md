@@ -28,5 +28,17 @@ HRRKoin is designed to be a platform for all. Whether you're a Professional, a j
 Empowering the community is at the heart of HRRKoin's mission. We seek to empower users to actively shape the platform and its features. Our commitment extends to providing an avenue for users to contribute their skills, knowledge, and expertise to the community. In recognition of their contributions, we are dedicated to ensuring users receive due acknowledgment and rewards.
 </p>
 
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
+<h2 class="heading-element" dir="auto">Social Links</h2>
+<p dir="auto">
+[Linkedin](https://www.linkedin.com/company/hrrkoin/ )
+[Twitter](https://twitter.com/Hrrkoin)
+[Telegram Channel](https://t.me/hrrkoinofficial  )
+[Telegram Community](https://t.me/hrrkoingroup )
+[YouTube](https://www.youtube.com/@hrrkoin )
+[Discord](https://discord.gg/ztkZYHE4K4 )
+[Facebook](https://www.facebook.com/Hrrkoin/  )
+[Instagram](https://www.instagram.com/hrrkoin/  )
+[Quora](https://hrrkoin.quora.com/?invite_code=lkGoT8yKHnomzRSYeE7m )
+[Reddit](https://reddit.com/r/Hrrkoin/ )
+[Medium](https://medium.com/@hrrkoin)
+</p>
