@@ -31,8 +31,8 @@ Empowering the community is at the heart of HRRKoin's mission. We seek to empowe
 <h2 class="heading-element" dir="auto">Social Links</h2>
 <p dir="auto">
 
-Linkedin
-- [![Linkedin](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/linkedin.svg)](https://www.linkedin.com/company/hrrkoin/)
+
+- Linkedin [![Linkedin](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/linkedin.svg)](https://www.linkedin.com/company/hrrkoin/)
 - [![Twitter](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/twitter.svg)](https://twitter.com/Hrrkoin)
 - [![Telegram Channel](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg)](https://t.me/hrrkoinofficial)
 - [![Telegram Community](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg)](https://t.me/hrrkoingroup)
