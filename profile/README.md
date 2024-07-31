@@ -1,4 +1,3 @@
-## Hi there 👋
 <p align="center" dir="auto">
 <img src="https://github.com/HRRKOIN/.github/blob/main/logo.png?raw=true" alt="Hrrkoin Logo" width="70%" style="max-width: 100%;">
 </p>
