@@ -30,15 +30,26 @@ Empowering the community is at the heart of HRRKoin's mission. We seek to empowe
 
 <h2 class="heading-element" dir="auto">Social Links</h2>
 <p dir="auto">
-[Linkedin](https://www.linkedin.com/company/hrrkoin/ )
+[Linkedin](https://www.linkedin.com/company/hrrkoin/)
+<br>
 [Twitter](https://twitter.com/Hrrkoin)
-[Telegram Channel](https://t.me/hrrkoinofficial  )
-[Telegram Community](https://t.me/hrrkoingroup )
-[YouTube](https://www.youtube.com/@hrrkoin )
-[Discord](https://discord.gg/ztkZYHE4K4 )
-[Facebook](https://www.facebook.com/Hrrkoin/  )
-[Instagram](https://www.instagram.com/hrrkoin/  )
-[Quora](https://hrrkoin.quora.com/?invite_code=lkGoT8yKHnomzRSYeE7m )
-[Reddit](https://reddit.com/r/Hrrkoin/ )
+<br>
+[Telegram Channel](https://t.me/hrrkoinofficial)
+<br>
+[Telegram Community](https://t.me/hrrkoingroup)
+<br>
+[YouTube](https://www.youtube.com/@hrrkoin)
+<br>
+[Discord](https://discord.gg/ztkZYHE4K4)
+<br>
+[Facebook](https://www.facebook.com/Hrrkoin/)
+<br>
+[Instagram](https://www.instagram.com/hrrkoin/)
+<br>
+[Quora](https://hrrkoin.quora.com/?invite_code=lkGoT8yKHnomzRSYeE7m)
+<br>
+[Reddit](https://reddit.com/r/Hrrkoin/)
+<br>
 [Medium](https://medium.com/@hrrkoin)
+<br>
 </p>
