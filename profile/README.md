@@ -32,7 +32,7 @@ Empowering the community is at the heart of HRRKoin's mission. We seek to empowe
 <p dir="auto">
 
 
-<div align="center">
+<div align="auto">
 <p>
 <a href="https://www.linkedin.com/company/hrrkoin/" target="_blank">
 <img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/linkedin.svg" alt="Linkedin" style="width: 32px; height: 32px;"/>
