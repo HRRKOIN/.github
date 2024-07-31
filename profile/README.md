@@ -32,16 +32,72 @@ Empowering the community is at the heart of HRRKoin's mission. We seek to empowe
 <p dir="auto">
 
 
-- Linkedin [![Linkedin](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/linkedin.svg)](https://www.linkedin.com/company/hrrkoin/)
-- [![Twitter](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/twitter.svg)](https://twitter.com/Hrrkoin)
-- [![Telegram Channel](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg)](https://t.me/hrrkoinofficial)
-- [![Telegram Community](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg)](https://t.me/hrrkoingroup)
-- [![YouTube](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/youtube.svg)](https://www.youtube.com/@hrrkoin)
-- [![Discord](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/discord.svg)](https://discord.gg/ztkZYHE4K4)
-- [![Facebook](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/facebook.svg)](https://www.facebook.com/Hrrkoin/)
-- [![Instagram](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/instagram.svg)](https://www.instagram.com/hrrkoin/)
-- [![Quora](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/quora.svg)](https://hrrkoin.quora.com/?invite_code=lkGoT8yKHnomzRSYeE7m)
-- [![Reddit](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/reddit.svg)](https://reddit.com/r/Hrrkoin/)
-- [![Medium](https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/medium.svg)](https://medium.com/@hrrkoin)
-
+<div align="center">
+<p>
+<a href="https://www.linkedin.com/company/hrrkoin/" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/linkedin.svg" alt="Linkedin" style="width: 32px; height: 32px;"/>
+Linkedin
+</a>
 </p>
+<p>
+<a href="https://twitter.com/Hrrkoin" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/twitter.svg" alt="Twitter" style="width: 32px; height: 32px;"/>
+Twitter
+</a>
+</p>
+<p>
+<a href="https://t.me/hrrkoinofficial" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg" alt="Telegram Channel" style="width: 32px; height: 32px;"/>
+Telegram Channel
+</a>
+</p>
+<p>
+<a href="https://t.me/hrrkoingroup" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/telegram.svg" alt="Telegram Community" style="width: 32px; height: 32px;"/>
+Telegram Community
+</a>
+</p>
+<p>
+<a href="https://www.youtube.com/@hrrkoin" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/youtube.svg" alt="YouTube" style="width: 32px; height: 32px;"/>
+YouTube
+</a>
+</p>
+<p>
+<a href="https://discord.gg/ztkZYHE4K4" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/discord.svg" alt="Discord" style="width: 32px; height: 32px;"/>
+Discord
+</a>
+</p>
+<p>
+<a href="https://www.facebook.com/Hrrkoin/" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/facebook.svg" alt="Facebook" style="width: 32px; height: 32px;"/>
+Facebook
+</a>
+</p>
+<p>
+<a href="https://www.instagram.com/hrrkoin/" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/instagram.svg" alt="Instagram" style="width: 32px; height: 32px;"/>
+Instagram
+</a>
+</p>
+<p>
+<a href="https://hrrkoin.quora.com/?invite_code=lkGoT8yKHnomzRSYeE7m" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/quora.svg" alt="Quora" style="width: 32px; height: 32px;"/>
+Quora
+</a>
+</p>
+<p>
+<a href="https://reddit.com/r/Hrrkoin/" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/reddit.svg" alt="Reddit" style="width: 32px; height: 32px;"/>
+Reddit
+</a>
+</p>
+<p>
+<a href="https://medium.com/@hrrkoin" target="_blank">
+<img src="https://raw.githubusercontent.com/HRRKOIN/.github/main/svg/medium.svg" alt="Medium" style="width: 32px; height: 32px;"/>
+Medium
+</a>
+</p>
+</div>
+
